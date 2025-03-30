@@ -56,8 +56,8 @@ A Python-based automation script that automatically books court reservations at 
    - Description: "Automated court reservation script"
    - Trigger: Choose "Daily" or "Weekly" based on your needs
    - Action: Start a program
-   - Program/script: `python`
-   - Add arguments: `"C:\path\to\your\script\selenim.py" --date "04/02/2025" --first-time "7:00am"`
+   - Program/script: `python` 
+   - Add arguments: `"C:\path\to\your\script\selenim.py" --username "YourUsername" --password "YourPassword" --guest "Guest Name" --date "04/02/2025" --first-time "8:00am" --second-time "9:00am"`
    - Start in: `C:\path\to\your\script\directory`
 
 3. **Advanced Settings**
